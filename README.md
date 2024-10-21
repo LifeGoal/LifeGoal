@@ -1,7 +1,7 @@
 # <div align="center"> Hello, LifeGoal here! 👋</div>
 I'm LifeGoal, a part-time backend developer. Mostly seen working on projects with LUA, C# and much more.
 
-- 🔭 Currently working on [Elite Scripts](https://elite-scripts.tebex.io) - [Documentation](https://elite-scripts.gitbook.io/elite-scripts)
+- 🔭 Currently working on [Elite Scripts](https://elitescripts.tebex.io/) - [Documentation](https://elite-scripts.gitbook.io/elite-scripts)
 - ⚡ Also developing the Swedish FiveM server Bygden RP
 
 ## My experiences
