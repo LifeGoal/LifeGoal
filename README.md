@@ -1,27 +1,39 @@
-# <div align="center"> Hello, LifeGoal here! 👋</div>
-I'm LifeGoal, a part-time backend developer. Mostly seen working on projects with LUA, C# and much more.
+# Hi there, I'm LifeGoal! 👋
 
-- 🔭 Currently working on [Elite Scripts](https://elitescripts.tebex.io/) - [Documentation](https://elite-scripts.gitbook.io/elite-scripts)
-- ⚡ Also developing the Swedish FiveM server Bygden RP
+Hobby backend developer specializing in LUA and some C#. Learning frontend at the moment. Currently building Elite Scripts and the Swedish FiveM server Bygden RP. Passionate about game modding, server management, and open-source contributions.
 
-## My experiences
+- 🔭 **Working on**: [Elite Scripts](https://elitescripts.tebex.io/) & Bygden FiveM RP server
+- 📚 **Learning**: More TypeScript for frontend polish
+- 💬 **Ask me about**: FiveM scripting, Debian/Ubuntu server setup, frontend and backend coding, or FiveM related questions
+- 📫 **Reach me**: l__g @ Discord
+- ⚡ **Fun fact**: I've got a soft spot for Swedish meatballs and late-night coding sessions.
 
-1. Backend development in mostly LUA & C#.
-2. Frontend development in HTML, CSS, JS and some typescript.
-3. Server experience in Debian, Ubuntu and other Linux versions.
+## 🛠️ Tech Stack
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70F64?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## My languages
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeGoal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LifeGoal&layout=compact&theme=radical&hide_border=true)
 
-1. Swedish  (Primary Language)
-2. English (Secondary Language)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LifeGoal&theme=radical&hide_border=true)
 
-## Github Stats  
+## 🔥 Top Repos
+![elite_deathscreen](https://github-readme-stats.vercel.app/api/pin/?username=LifeGoal&repo=elite_deathscreen&theme=radical)
+![esx_securitycam](https://github-readme-stats.vercel.app/api/pin/?username=LifeGoal&repo=esx_securitycam&theme=radical)
 
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LifeGoal&theme=react-dark&hide_border=true)
 
-<img style="width: 45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LifeGoal&count_private=true&show_icons=true&theme=radical" align="left" style="width: 100%" />
+---
 
+**Languages**: Swedish (Native) | English (Fluent)
 
-<img style="width: 45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LifeGoal&hide=HTML,CSS,Hack,PlpgSQL,PHP,EJS,Smarty&langs_count=6&exclude_repo=FirstUnityGame,github-stats,github-org-stats,vuexy-working-vue,vuexy-working-vue-laravel&org=SweHosting&layout=compact&theme=radical" align="left" style="width: 100%" />
-
-</div>
+![Footer](https://img.shields.io/badge/Connect%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Footer](https://img.shields.io/badge/Visit%20Elite%20Scripts-00D4AA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDFMNCAxTDQgMTJMMTIgMTJaIiBmaWxsPSIjMDBENEFBIi8+Cjwvc3ZnPg==)
