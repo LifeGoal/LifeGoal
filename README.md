@@ -24,10 +24,3 @@ Hobby backend developer specializing in LUA and some C#. Learning frontend at th
 
 ## 📈 Activity Graph (Public repos)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LifeGoal&theme=react-dark&hide_border=true)
-
----
-
-**Languages**: Swedish (Native) | English (Fluent)
-
-![Footer](https://img.shields.io/badge/Connect%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Footer](https://img.shields.io/badge/Visit%20Elite%20Scripts-00D4AA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDFMNCAxTDQgMTJMMTIgMTJaIiBmaWxsPSIjMDBENEFBIi8+Cjwvc3ZnPg==)
