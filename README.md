@@ -19,6 +19,22 @@ Hobby backend developer specializing in LUA and some C#. Learning frontend at th
 ![Debian](https://img.shields.io/badge/Debian-D70F64?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## 🎲 LifeGoal's Randomizer
+
+A fully customizable **League of Legends randomizer** for:
+- Champion
+- Ability order
+- Summoner spells
+- Runes
+- Starter items & full builds
+
+Fully configurable. Pick and choose what gets randomized.
+
+Bonus: built-in **team randomizer** with spinning wheel for quick blue/red team assignment.
+
+Ready for some unpredictable fun?
+👉 https://lifegoals-randomizer.vercel.app/
+
 ## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats-beta-tan.vercel.app?user=LifeGoal&theme=dark)](https://git.io/streak-stats)
 
