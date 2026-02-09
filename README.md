@@ -2,7 +2,7 @@
 
 Hobby backend developer specializing in LUA and some C#. Learning frontend at the moment. Currently building Elite Scripts and the Swedish FiveM server Bygden RP. Passionate about game modding, server management, and open-source contributions.
 
-- 🔭 **Working on**: [Elite Scripts](https://elitescripts.tebex.io/) & Bygden FiveM RP server
+- 🔭 **Working on**: [Elite Scripts](https://elitescripts.tebex.io/) & [LifeGoal's Randomizer](https://lifegoals-randomizer.vercel.app/)
 - 📚 **Learning**: More TypeScript for frontend polish
 - 💬 **Ask me about**: FiveM scripting, Debian/Ubuntu server setup, frontend and backend coding, or FiveM related questions
 - 📫 **Reach me**: l__g @ Discord
